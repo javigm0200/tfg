@@ -1,0 +1,4 @@
+Timestamp,Source,Destination,Ping Status
+2024-06-14 10:00:00,servidor1,servidor2,Success
+2024-06-14 10:05:00,servidor1,servidor2,Success
+2024-06-14 10:10:00,servidor1,servidor2,Success
